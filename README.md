@@ -2,7 +2,7 @@
 
 Course Name - Artificial Intelligence and Generative AI
 
-Project title - Chances of Admission
+Project title - Purchase Prediction And MicroNumerosity
 
 Platform used - Google Collab
-(Link - https://colab.research.google.com/drive/1wr8e-Ogph5s6o0CvBvlbwVoKJmOxnzkP?usp=sharing)
+(Link - https://colab.research.google.com/drive/1WT82_rJyS0tSY0CoheOaPgIcID3sPGew?usp=sharing)
